@@ -1,0 +1,12 @@
+<resources>
+   <string name="app_name">Assist Control</string>
+    <string name="smsalida">Marcar Salida</string>
+    <string name="smentrada">Marcar Entrada</string>
+    <string name="sentrada">Entrada</string>
+    <string name="ssalida">Salida</string>
+    <string name="sedad">Edad</string>
+    <string name="ssexo">Sexo</string>
+    <string name="sinstitucion">Institución</string>
+    <string name="sidentificador">Identificador</string>
+    <string name="sconectadoa">Conectado a:</string>
+</resources>
